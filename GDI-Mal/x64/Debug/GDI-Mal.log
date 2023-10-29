@@ -1,0 +1,3 @@
+﻿  GDI-Mal.cpp
+D:\Project\malware\GDI-Mal\GDI-Mal\GDI-Mal.cpp(7,11): warning C4101: 'points': unreferenced local variable
+  GDI-Mal.vcxproj -> D:\Project\malware\GDI-Mal\x64\Debug\GDI-Mal.exe
